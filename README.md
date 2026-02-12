@@ -30,15 +30,6 @@ Explore and find other talented individuals
 
 📱 Responsive Design
 
-🛠️ Tech Stack
-
-(Update this section based on what you used)
-
-Frontend:
-
-Backend:
-
-Database:
 
 🎯 Goal
 
